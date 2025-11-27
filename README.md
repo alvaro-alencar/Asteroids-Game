@@ -1,2 +1,2 @@
 # Asteroids-Game
-Jogo simples de tiro
+Recriação do clássico Arcade Asteroids usando HTML5 Canvas e Física Vetorial.
